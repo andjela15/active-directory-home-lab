@@ -98,8 +98,8 @@ Created the PSO **IT-Stroza-Politika** in Active Directory Administrative Center
 ## Skills Practiced
 
 Active Directory · Group Policy · PowerShell · NTFS & Share Permissions · Fine-Grained Password Policies · Audit Policy & Event Viewer · Kerberos · DHCP · DNS · Windows Server 2022 · VMware
+
 ## Next Steps
 - Join a Windows client machine to the domain and test GPOs, DHCP leases and logons from the client side
-## Next Steps
 
 - Join a Windows client machine to the domain and test GPOs, DHCP leases and logons from the client side
